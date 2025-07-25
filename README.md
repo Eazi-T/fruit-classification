@@ -30,4 +30,4 @@ To develop an image classification models that accurately identifies fruit type 
 
 📈 Results
 - The models achieved: 99% accuracy with the SVM achieiving varying accuracy depending on the altered features
-Fast and reliable inference on test images
+- Fast and reliable inference on test images
